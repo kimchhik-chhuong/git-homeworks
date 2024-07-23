@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+}
+.card{
+    background:white;
+    border-radius: 7px;
+    padding: 10px;
+    margin-top: 10px;
+}
+#btn-teal{
+    background: teal;
+    color: white;
+    border-radius: 10px;
+    border:none;
+}
+#btn-orange{
+    background: orange;
+    color: white;
+    border-radius: 10px;
+    border:none;
+}
+#btn-purple{
+    background: purple;
+    color: white;
+    border-radius: 10px;
+    border:none;
+}
