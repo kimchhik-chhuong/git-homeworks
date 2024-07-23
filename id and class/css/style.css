@@ -1,0 +1,25 @@
+.header{
+    background-color: lightblue;
+    text-align: center;
+    color: rgb(81, 81, 170);
+    padding: 20px;
+    border-bottom: 2px solid black;
+}
+#intro{
+    background-color: rgb(247, 231, 231);
+    padding: 10px;
+}
+#features{
+    background-color: lightgreen;
+    padding: 10px;
+    margin-top: 10px;
+    border: 1px solid gray;
+}
+.footer{
+    background-color: lightcoral;
+    padding: 10px;
+    margin-top: 10px;
+    text-align: center;
+    color: white;
+    border-top: 2px solid rgb(129, 31, 31);
+}
