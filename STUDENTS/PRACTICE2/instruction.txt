@@ -1,5 +1,0 @@
-Instruction:
-
-- Link your css file to HTML
-- Create id name: "apple", "banana", "coconut" for all <h1> tags
-- Write css style to change color of apple and coconut , banana like image: result_2.png
